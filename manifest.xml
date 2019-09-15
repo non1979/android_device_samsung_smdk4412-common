@@ -28,6 +28,7 @@
     </hal>
     <hal format="hidl">
         <name>android.hardware.graphics.allocator</name>
+        <interface>
             <name>IAllocator</name>
             <instance>default</instance>
         </interface>
